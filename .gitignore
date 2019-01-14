@@ -1,0 +1,15 @@
+*.iml
+.DS_Store/
+.idea/
+.gradle/
+out/
+bin/
+build/
+taxis/*
+payment/*.iml
+payment/.DS_Store/
+payment/.idea/
+payment/.gradle/
+payment/out/
+payment/bin/
+payment/build/
