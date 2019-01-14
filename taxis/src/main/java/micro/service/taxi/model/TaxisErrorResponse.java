@@ -7,6 +7,6 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class ContactErrorResponse {
+public class TaxisErrorResponse {
     private String message;
 }
